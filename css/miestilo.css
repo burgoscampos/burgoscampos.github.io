@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Faster+One|Noto+Sans+HK|Pacifico|Ruge+Boogie|Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Kalam&display=swap');
+.imagen {
+    border-radius: 50%;
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+aside img {
+    margin-right: 5px;
+}
+
+body {
+    border: royalblue 5px solid;
+}
+
+.letra {
+    font-family: 'Pacifico', cursive;
+    text-anchor: initial;
+}
+
+.lugar {
+    font-family: 'Faster One', cursive;
+}
+
+.subtitulo {
+    font-family: 'Courgette', cursive;
+}
+
+p {
+    font-family: 'Kalam', cursive;
+    font-size: 28px;
+}
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
